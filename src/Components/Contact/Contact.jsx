@@ -19,7 +19,7 @@ function Contact() {
               
               <div className=' flex justify-between mx-6 my-4 text-2xl '>
                 <h3>Contact Info</h3>
-                <IoIosArrowUp className={`${isExpand ? 'rotate-180' : ''} transform transition-transform duration-300  `} onClick={toggleHeight} />
+                <IoIosArrowUp className={`${isExpand ? 'rotate-180' : ''} cursor-pointer transform transition-transform duration-300  `} onClick={toggleHeight} />
               </div>
 
               { isExpand && (<main className={` space-y-6 ${isExpand ? 'none' : 'block'} `}>
