@@ -1,6 +1,6 @@
 import React from 'react'
-import folio_1 from '../../Images/portfolio_1.png'
-import folio_2 from '../../Images/portfolio_2.png'
+import folio_1 from '../../Assets/Images/portfolio_1.png'
+import folio_2 from '../../Assets/Images/portfolio_2.png'
 
 function Projects() {
   return (

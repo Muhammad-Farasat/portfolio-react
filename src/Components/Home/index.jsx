@@ -91,12 +91,12 @@ function Home() {
 
           <div className='relative flex justify-center items-center '>
               <div className="bg_text absolute">
-                <h1 className='   text-[#313131] text-[240px] font-black'>WEBDEV</h1>
+                <h1 className='   text-[#313131] text-[240px] font-black max-xl:text-[200px] '>WEBDEV</h1>
               </div>
               <div className=' z-10 leading-none ' >
                 <div className=' top_left font-black text-[24px] text-[#00FFFF] ' ><p>FrontEnd Developer</p></div>
                 <div className="main_text  ">
-                  <h1 className=' main_name text-[164.23px] font-black tracking-[30px]  '>FARASAT</h1>
+                  <h1 className=' main_name text-[164.23px] font-black tracking-[30px] max-xl:text-[150px]  '>FARASAT</h1>
                 </div>
                 <div className=' top_right font-black text-[24px] flex justify-end mt-2 text-[#00FFFF] ' ><p>Welcome to my portfolio</p></div>
               </div>
