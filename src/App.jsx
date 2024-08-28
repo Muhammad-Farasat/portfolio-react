@@ -1,14 +1,14 @@
 import './App.css'
-import NavBar from './Components/NavBar/NavBar'
-import Home from './Components/Home/Home'
+import NavBar from './Components/NavBar/index'
+import Home from './Components/Home/index'
 import { gsap } from "gsap";
-import Skills from './Components/Skills/Skills';
-import About from './Components/About/About';
+import Skills from './Components/Skills/index';
+import About from './Components/About/index';
 import {ScrollTrigger} from 'gsap/ScrollTrigger';
 import { useEffect, useRef } from 'react';
 import { useGSAP } from '@gsap/react';
-import Projects from './Components/Projects/Projects';
-import Contact from './Components/Contact/Contact';
+import Projects from './Components/Projects/index';
+import Contact from './Components/Contact/index';
 
 
 gsap.registerPlugin(ScrollTrigger) 
