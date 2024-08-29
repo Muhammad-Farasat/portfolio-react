@@ -70,7 +70,7 @@ function Skills() {
                 {/* This is heading section */}
 
                 <div className='  flex justify-center items-center flex-col mt-8 '>
-                    <h3 className=' head text-[32px] text-[#00FFFF] max-sm:text-[22px] ' >Skills</h3>
+                    <h3 className=' head text-[32px] text-[#00FFFF] max-sm:text-[22px] max-lg:text-[26px] ' >Skills</h3>
                     <div>
                         <div className='w-32 h-[2px] bg-[#fff] flex justify-center items-center rounded-md  max-sm:w-24 ' >
                           <div className=' w-10 h-1 bg-[#00FFFF] rounded-md max-sm:w-8 ' ></div>
