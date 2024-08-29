@@ -16,7 +16,7 @@ function About() {
                     </div>
                 </div>
 
-                <div className=' w-4/12 mt-16  max-sm:w-5/6 max-sm:text-xs max-sm:text-left max-sm:mx-auto max-sm:mt-6 max-lg:text-xs max-lg:text-center max-lg:w-full max-lg:px-8  '>
+                <div className=' w-4/12 mt-16  max-sm:w-5/6 max-sm:text-xs max-sm:text-left max-sm:mx-auto max-sm:mt-6 max-lg:text-xs max-lg:text-center max-lg:w-full max-lg:px-8 max-xl:w-full max-xl:px-6 '>
                         <p>I'm currently pursuing a Bachelor's degree in Software Engineering, where I've developed a strong foundation in coding and problem-solving. My passion for web development led me to SMIT, where I honed my skills in creating responsive and user-friendly websites. I recently completed a front-end development internship at Global Dezigns, where I gained practical experience and further refined my abilities. I'm eager to continue learning and growing as a developer, contributing to innovative projects along the way.</p>
                 </div>
 
