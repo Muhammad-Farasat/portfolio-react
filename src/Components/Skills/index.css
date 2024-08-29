@@ -1,0 +1,26 @@
+@media not all and (min-width: 399px) {
+    .html div div, .css div div, .js div div, .react div div, .figma div div, .tailwind div div{
+        height: 12px !important;
+    }
+    .html div div span, .css div div span, .js div div span, .react div div span, .figma div div span, .tailwind div div span{
+        font-size: 11px !important;
+    }
+}
+
+@media (min-width: 400px) and (max-width: 599px) {
+    .html div div, .css div div, .js div div, .react div div, .figma div div, .tailwind div div{
+        height: 14px !important;
+    }
+    .html div div span, .css div div span, .js div div span, .react div div span, .figma div div span, .tailwind div div span{
+        font-size: 11px !important;
+    }
+}
+
+@media (min-width: 600px) and (max-width: 899px) {
+    .html div div, .css div div, .js div div, .react div div, .figma div div, .tailwind div div{
+        height: 16px !important;
+    }
+    .html div div span, .css div div span, .js div div span, .react div div span, .figma div div span, .tailwind div div span{
+        font-size: 12px !important;
+    }
+}

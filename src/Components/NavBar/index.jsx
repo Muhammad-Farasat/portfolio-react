@@ -14,7 +14,7 @@ function NavBar() {
                 {/* <p className='text-[32px] font-extrabold '>My Portfolio</p> */}
                 <p></p>
 
-                <img src={logo} className=" w-[7%] " />
+                <img src={logo} className=" w-[7%] max-sm:w-1/6 max-lg:w-[12%] " />
 
                 {/* <button className=' border-2  rounded-full px-4 py-2 text-[14px] hover:bg-[#98FF98] hover:border-none hover:text-[#fff] ' >Download CV</button> */}
 

@@ -91,15 +91,24 @@ function Home() {
 
           <div className='relative flex justify-center items-center '>
               <div className="bg_text absolute">
-                <h1 className='   text-[#313131] text-[240px] font-black max-xl:text-[200px] '>WEBDEV</h1>
+                <h1 className='   text-[#313131] text-[240px] font-black max-xl:text-[200px] max-[360px]:text-[60px] 
+                max-[460px]:text-[80px] max-md:text-[130px] max-lg:text-[150px] '>WEBDEV</h1>
               </div>
               <div className=' z-10 leading-none ' >
-                <div className=' top_left font-black text-[24px] text-[#00FFFF] ' ><p>FrontEnd Developer</p></div>
-                <div className="main_text  ">
-                  <h1 className=' main_name text-[164.23px] font-black tracking-[30px] max-xl:text-[150px]  '>FARASAT</h1>
+
+                <div className=' top_left font-black text-[24px] text-[#00FFFF] max-sm:text-[10px] max-md:text-[14px] max-lg:text-[16px]  ' >
+                  <p>Frontend Developer</p>
                 </div>
-                <div className=' top_right font-black text-[24px] flex justify-end mt-2 text-[#00FFFF] ' ><p>Welcome to my portfolio</p></div>
-              </div>
+                
+                <div className="main_text  ">
+                  <h1 className=' main_name text-[164.23px] font-black tracking-[30px] max-xl:text-[150px] max-sm:text-[40px] max-sm:tracking-[10px] max-[460px]:text-[50px] max-md:text-[88px] max-md:tracking-[12px] max-lg:text-[110px] max-lg:tracking-[12px] '>FARASAT</h1>
+                </div>
+
+                <div className=' top_right font-black text-[24px] flex justify-end  text-[#00FFFF] mt-0 max-sm:text-[10px] max-md:text-[14px] max-lg:text-[16px] ' >
+                  <p>Welcome to my portfolio</p></div>
+                </div>
+
+
           </div>
 
         </main>
